@@ -6,6 +6,7 @@ authors = ["Chanyoon Zhu <zhqianyu@amazon.com>"]
 
 [tool.poetry.dependencies]
 python = "^2.7"
+pytest-watch = "^4.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^4.6"
